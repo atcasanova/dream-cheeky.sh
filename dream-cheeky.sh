@@ -1,5 +1,6 @@
 #!/bin/bash
 # Bash script to control dream-cheeky red button
+# http://dreamcheeky.com/big-red-button
 # Inspirated by Malcolm Sparks <malcolm@congreve.com> C driver
 # for the same device.
 # developed mostly by Fernando Merces <www.mentebinaria.com.br>
