@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# dream-cheeky.sh - Bit Red Button (http://dreamcheeky.com/big-red-button) controller
+# dream-cheeky.sh - Big Red Button (http://dreamcheeky.com/big-red-button) controller
 #
 # Copyright (C) 2015 Alfredo Casanova <atcasanova@gmail.com>
 #                    Fernando Merces <www.mentebinaria.com.br>
