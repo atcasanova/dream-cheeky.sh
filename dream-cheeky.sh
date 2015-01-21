@@ -7,10 +7,7 @@
 # with some contributions by Alfredo Casanova <atcasanova@gmail.com>
 ######################################################################
  
-lid_closed=21
-button_pressed=22
-lid_open=23
-
+read lid_closed button_pressed lid_open <<< "21 22 23"
 last=$lid_closed
 buffer="\x08\x00\x00\x00\x00\x00\x00\x02"
 
