@@ -7,6 +7,7 @@ dream-cheeky.sh is a program written in Bash to control the Big Red Button devic
 ## Running
 
 `chmod +x dream-cheeky.sh`
+then
 `./dream-cheeky.sh`
 
 or
